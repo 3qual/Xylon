@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "INv7fq3rxiA=",
+  "success": true,
+  "projectFilePath": "/Users/equal/Desktop/Code/Xylon/Xylon/Xylon.csproj",
+  "expectedPackageFiles": [
+    "/Users/equal/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.8/microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "/Users/equal/.nuget/packages/microsoft.net.illink.tasks/8.0.8/microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "/Users/equal/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.8/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
